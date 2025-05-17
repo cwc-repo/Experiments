@@ -1,0 +1,1862 @@
+{
+    "bodytech Santa Maria de los angeles": [
+        {
+            "address_components": [
+                {
+                    "long_name": "# 16 Sur\u201367",
+                    "short_name": "# 16 Sur\u201367",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Carrera 46",
+                    "short_name": "Cra. 46",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Santa Mar\u00eda de Los \u00c1ngeles",
+                    "short_name": "Santa Mar\u00eda de Los \u00c1ngeles",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "El Poblado",
+                    "short_name": "El Poblado",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "El Poblado",
+                    "short_name": "El Poblado",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Antioquia",
+                    "short_name": "Antioquia",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colombia",
+                    "short_name": "CO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "050022",
+                    "short_name": "050022",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Cra. 46 # 16 Sur\u201367, El Poblado, Medell\u00edn, El Poblado, Medell\u00edn, Antioquia, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 6.190339499999999,
+                    "lng": -75.5796356
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 6.191645280291502,
+                        "lng": -75.57812476970848
+                    },
+                    "southwest": {
+                        "lat": 6.188947319708498,
+                        "lng": -75.5808227302915
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 6.190269400000001,
+                        "longitude": -75.57937310000001
+                    }
+                }
+            ],
+            "partial_match": true,
+            "place_id": "ChIJI9_8N2GCRo4RV4PuPAbG7Rs",
+            "plus_code": {
+                "compound_code": "5CRC+44 Medellin, Antioquia, Colombia",
+                "global_code": "67R65CRC+44"
+            },
+            "types": [
+                "establishment",
+                "gym",
+                "health",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "bodytech vizcaya": [
+        {
+            "address_components": [
+                {
+                    "long_name": "32B - 25",
+                    "short_name": "32B - 25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Calle 10",
+                    "short_name": "Cl 10",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Las Lomas I",
+                    "short_name": "Las Lomas I",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "El Poblado",
+                    "short_name": "El Poblado",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "El Poblado",
+                    "short_name": "El Poblado",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Antioquia",
+                    "short_name": "Antioquia",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colombia",
+                    "short_name": "CO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "050021",
+                    "short_name": "050021",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Cl 10 #32B - 25, El Poblado, Medell\u00edn, El Poblado, Medell\u00edn, Antioquia, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 6.208038999999999,
+                    "lng": -75.563333
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 6.209398180291502,
+                        "lng": -75.5620171697085
+                    },
+                    "southwest": {
+                        "lat": 6.206700219708498,
+                        "lng": -75.56471513029152
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 6.208063,
+                        "longitude": -75.5635305
+                    },
+                    "restricted_travel_modes": [
+                        "WALK"
+                    ]
+                },
+                {
+                    "location": {
+                        "latitude": 6.208042799999999,
+                        "longitude": -75.56320819999999
+                    },
+                    "restricted_travel_modes": [
+                        "DRIVE"
+                    ]
+                }
+            ],
+            "place_id": "ChIJBwYKEigoRI4Rj2fmjopDcr4",
+            "plus_code": {
+                "compound_code": "6C5P+6M Medellin, Antioquia, Colombia",
+                "global_code": "67R66C5P+6M"
+            },
+            "types": [
+                "establishment",
+                "gym",
+                "health",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "bodytech san lucas": [
+        {
+            "address_components": [
+                {
+                    "long_name": "27 - 115",
+                    "short_name": "27 - 115",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Calle 20 Sur",
+                    "short_name": "Cl. 20 Sur",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "San Lucas",
+                    "short_name": "San Lucas",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Molinas del Viento",
+                    "short_name": "Molinas del Viento",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "El Poblado",
+                    "short_name": "El Poblado",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Antioquia",
+                    "short_name": "Antioquia",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colombia",
+                    "short_name": "CO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "050022",
+                    "short_name": "050022",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Cl. 20 Sur #27 - 115, Molinas del Viento, Medell\u00edn, El Poblado, Medell\u00edn, Antioquia, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 6.180834,
+                    "lng": -75.568806
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 6.182299930291501,
+                        "lng": -75.5676526697085
+                    },
+                    "southwest": {
+                        "lat": 6.179601969708497,
+                        "lng": -75.5703506302915
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 6.1810052,
+                        "longitude": -75.56927499999999
+                    },
+                    "restricted_travel_modes": [
+                        "WALK"
+                    ]
+                },
+                {
+                    "location": {
+                        "latitude": 6.180854,
+                        "longitude": -75.5687791
+                    },
+                    "restricted_travel_modes": [
+                        "DRIVE"
+                    ]
+                }
+            ],
+            "partial_match": true,
+            "place_id": "ChIJse16VfGCRo4RIkUKZ03kciM",
+            "plus_code": {
+                "compound_code": "5CJJ+8F Medellin, Antioquia, Colombia",
+                "global_code": "67R65CJJ+8F"
+            },
+            "types": [
+                "establishment",
+                "gym",
+                "health",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "bodytech mall del este": [
+        {
+            "address_components": [
+                {
+                    "long_name": "#3-45",
+                    "short_name": "#3-45",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Carrera 25",
+                    "short_name": "Cra. 25",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "El Tesoro",
+                    "short_name": "El Tesoro",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "El Poblado",
+                    "short_name": "El Poblado",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "El Poblado",
+                    "short_name": "El Poblado",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Antioquia",
+                    "short_name": "Antioquia",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colombia",
+                    "short_name": "CO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "050021",
+                    "short_name": "050021",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Cra. 25 #3-45, El Poblado, Medell\u00edn, El Poblado, Medell\u00edn, Antioquia, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 6.1985753,
+                    "lng": -75.5567906
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 6.199945080291502,
+                        "lng": -75.55547221970849
+                    },
+                    "southwest": {
+                        "lat": 6.197247119708497,
+                        "lng": -75.55817018029151
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 6.1985814,
+                        "longitude": -75.5567995
+                    }
+                }
+            ],
+            "place_id": "ChIJX5gjipmCRo4Rmx33dGXgbQE",
+            "plus_code": {
+                "compound_code": "5CXV+C7 Medellin, Antioquia, Colombia",
+                "global_code": "67R65CXV+C7"
+            },
+            "types": [
+                "establishment",
+                "gym",
+                "health",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "bodytech city plaza centro comercial": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Calle 36 Sur",
+                    "short_name": "Cl. 36 Sur",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "La Pradera",
+                    "short_name": "La Pradera",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Envigado",
+                    "short_name": "Envigado",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Envigado",
+                    "short_name": "Envigado",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Antioquia",
+                    "short_name": "Antioquia",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colombia",
+                    "short_name": "CO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "055420",
+                    "short_name": "055420",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Cl. 36 Sur, La Pradera, Envigado, Antioquia, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 6.1637748,
+                    "lng": -75.57346249999999
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 6.165151380291502,
+                        "lng": -75.57209586970849
+                    },
+                    "southwest": {
+                        "lat": 6.162453419708497,
+                        "lng": -75.5747938302915
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 6.163776800000001,
+                        "longitude": -75.5734612
+                    }
+                }
+            ],
+            "partial_match": true,
+            "place_id": "ChIJOY6HoqqDRo4RqhetH7jMhPs",
+            "plus_code": {
+                "compound_code": "5C7G+GJ Envigado, Antioquia, Colombia",
+                "global_code": "67R65C7G+GJ"
+            },
+            "types": [
+                "establishment",
+                "gym",
+                "health",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "bodytech laureles": [
+        {
+            "address_components": [
+                {
+                    "long_name": "66 - 50",
+                    "short_name": "66 - 50",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Calle 50",
+                    "short_name": "C. 50",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Carlos E. Restrepo",
+                    "short_name": "Carlos E. Restrepo",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Laureles - Estadio",
+                    "short_name": "Laureles - Estadio",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Laureles",
+                    "short_name": "Laureles",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Antioquia",
+                    "short_name": "Antioquia",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colombia",
+                    "short_name": "CO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "050034",
+                    "short_name": "050034",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "C. 50 #66 - 50, Laureles - Estadio, Medell\u00edn, Laureles, Medell\u00edn, Antioquia, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 6.256905499999999,
+                    "lng": -75.5823059
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 6.258347630291502,
+                        "lng": -75.5808535697085
+                    },
+                    "southwest": {
+                        "lat": 6.255649669708498,
+                        "lng": -75.5835515302915
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 6.2571562,
+                        "longitude": -75.58206969999999
+                    },
+                    "restricted_travel_modes": [
+                        "WALK"
+                    ]
+                },
+                {
+                    "location": {
+                        "latitude": 6.256841499999999,
+                        "longitude": -75.5823362
+                    },
+                    "restricted_travel_modes": [
+                        "DRIVE"
+                    ]
+                }
+            ],
+            "partial_match": true,
+            "place_id": "ChIJwTaO-QQpRI4RLL33EFjnb5o",
+            "plus_code": {
+                "compound_code": "7C49+Q3 Medellin, Antioquia, Colombia",
+                "global_code": "67R67C49+Q3"
+            },
+            "types": [
+                "establishment",
+                "gym",
+                "health",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "bodytech villagrande": [
+        {
+            "address_components": [
+                {
+                    "long_name": "# 42B - 60",
+                    "short_name": "# 42B - 60",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Transversal 27A Sur",
+                    "short_name": "Tv 27A Sur",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Pontevedra",
+                    "short_name": "Pontevedra",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Zona 2",
+                    "short_name": "Zona 2",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Envigado",
+                    "short_name": "Envigado",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Envigado",
+                    "short_name": "Envigado",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Antioquia",
+                    "short_name": "Antioquia",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colombia",
+                    "short_name": "CO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "055422",
+                    "short_name": "055422",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Tv 27A Sur # 42B - 60, Zona 2, Envigado, Antioquia, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 6.178769099999999,
+                    "lng": -75.5826568
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 6.180111380291502,
+                        "lng": -75.58136191970848
+                    },
+                    "southwest": {
+                        "lat": 6.177413419708498,
+                        "lng": -75.58405988029149
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 6.1787793,
+                        "longitude": -75.5827116
+                    }
+                }
+            ],
+            "place_id": "ChIJm9mYVlqCRo4RwAJXHL_aVrU",
+            "plus_code": {
+                "compound_code": "5CH8+GW Envigado, Antioquia, Colombia",
+                "global_code": "67R65CH8+GW"
+            },
+            "types": [
+                "establishment",
+                "gym",
+                "health",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "bodytech americas": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2A - 120",
+                    "short_name": "2A - 120",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Diagonal 75B",
+                    "short_name": "Dg. 75B",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Diego Echavarr\u00eda",
+                    "short_name": "Diego Echavarr\u00eda",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bel\u00e9n",
+                    "short_name": "Bel\u00e9n",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Antioquia",
+                    "short_name": "Antioquia",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colombia",
+                    "short_name": "CO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "050025",
+                    "short_name": "050025",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Dg. 75B #2A - 120, Medell\u00edn, Bel\u00e9n, Medell\u00edn, Antioquia, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 6.214584299999999,
+                    "lng": -75.59632719999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 6.215859530291501,
+                        "lng": -75.5949416197085
+                    },
+                    "southwest": {
+                        "lat": 6.213161569708498,
+                        "lng": -75.59763958029151
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 6.2144933,
+                        "longitude": -75.596282
+                    }
+                }
+            ],
+            "partial_match": true,
+            "place_id": "ChIJj4yAld0pRI4RItGXvl63uUM",
+            "plus_code": {
+                "compound_code": "6C73+RF Medellin, Antioquia, Colombia",
+                "global_code": "67R66C73+RF"
+            },
+            "types": [
+                "establishment",
+                "gym",
+                "health",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "bodytech avenida colombia": [
+        {
+            "address_components": [
+                {
+                    "long_name": "66 - 50",
+                    "short_name": "66 - 50",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Calle 50",
+                    "short_name": "C. 50",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Carlos E. Restrepo",
+                    "short_name": "Carlos E. Restrepo",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Laureles - Estadio",
+                    "short_name": "Laureles - Estadio",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Laureles",
+                    "short_name": "Laureles",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Antioquia",
+                    "short_name": "Antioquia",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colombia",
+                    "short_name": "CO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "050034",
+                    "short_name": "050034",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "C. 50 #66 - 50, Laureles - Estadio, Medell\u00edn, Laureles, Medell\u00edn, Antioquia, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 6.256905499999999,
+                    "lng": -75.5823059
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 6.258347630291502,
+                        "lng": -75.5808535697085
+                    },
+                    "southwest": {
+                        "lat": 6.255649669708498,
+                        "lng": -75.5835515302915
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 6.2571562,
+                        "longitude": -75.58206969999999
+                    },
+                    "restricted_travel_modes": [
+                        "WALK"
+                    ]
+                },
+                {
+                    "location": {
+                        "latitude": 6.256841499999999,
+                        "longitude": -75.5823362
+                    },
+                    "restricted_travel_modes": [
+                        "DRIVE"
+                    ]
+                }
+            ],
+            "place_id": "ChIJwTaO-QQpRI4RLL33EFjnb5o",
+            "plus_code": {
+                "compound_code": "7C49+Q3 Medellin, Antioquia, Colombia",
+                "global_code": "67R67C49+Q3"
+            },
+            "types": [
+                "establishment",
+                "gym",
+                "health",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "bodytech san juan": [
+        {
+            "address_components": [
+                {
+                    "long_name": "# 44-54",
+                    "short_name": "# 44-54",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Carrera 84",
+                    "short_name": "Cra. 84",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "La Am\u00e9rica",
+                    "short_name": "La Am\u00e9rica",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "La Am\u00e9rica",
+                    "short_name": "La Am\u00e9rica",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Antioquia",
+                    "short_name": "Antioquia",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colombia",
+                    "short_name": "CO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "050032",
+                    "short_name": "050032",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Cra. 84 # 44-54, La Am\u00e9rica, Medell\u00edn, La Am\u00e9rica, Medell\u00edn, Antioquia, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 6.2513444,
+                    "lng": -75.6041469
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 6.252721230291503,
+                        "lng": -75.6028955697085
+                    },
+                    "southwest": {
+                        "lat": 6.250023269708499,
+                        "lng": -75.60559353029151
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 6.2513827,
+                        "longitude": -75.6042813
+                    }
+                }
+            ],
+            "partial_match": true,
+            "place_id": "ChIJE35fbHYpRI4RWF2fDH5WhYs",
+            "plus_code": {
+                "compound_code": "792W+G8 Medellin, Antioquia, Colombia",
+                "global_code": "67R6792W+G8"
+            },
+            "types": [
+                "establishment",
+                "gym",
+                "health",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "bodytech premium plaza centro comercial": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Perpetuo Socorro",
+                    "short_name": "Perpetuo Socorro",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "La Candelaria",
+                    "short_name": "La Candelaria",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "La Candelaria",
+                    "short_name": "La Candelaria",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Cundinamarca",
+                    "short_name": "Cundinamarca",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colombia",
+                    "short_name": "CO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "050016",
+                    "short_name": "050016",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Cra. 43A # 30-25, Av. El Poblado with Calle 30, La Candelaria, Medell\u00edn, La Candelaria, Medell\u00edn, Cundinamarca, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 6.228946,
+                    "lng": -75.5708693
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 6.230219330291503,
+                        "lng": -75.56958211970849
+                    },
+                    "southwest": {
+                        "lat": 6.227521369708498,
+                        "lng": -75.5722800802915
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 6.228843599999999,
+                        "longitude": -75.5709529
+                    }
+                }
+            ],
+            "partial_match": true,
+            "place_id": "ChIJnRlISEooRI4Rij4nw9UZetk",
+            "plus_code": {
+                "compound_code": "6CHH+HM Medellin, Antioquia, Colombia",
+                "global_code": "67R66CHH+HM"
+            },
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "shopping_mall"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "30-25",
+                    "short_name": "30-25",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Carrera 43",
+                    "short_name": "Cra. 43",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Perpetuo Socorro",
+                    "short_name": "Perpetuo Socorro",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "La Candelaria",
+                    "short_name": "La Candelaria",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "La Candelaria",
+                    "short_name": "La Candelaria",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Antioquia",
+                    "short_name": "Antioquia",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colombia",
+                    "short_name": "CO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "050015",
+                    "short_name": "050015",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Cra. 43 #30-25, La Candelaria, Medell\u00edn, La Candelaria, Medell\u00edn, Antioquia, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 6.2298497,
+                    "lng": -75.5704191
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 6.231127830291502,
+                        "lng": -75.56908556970849
+                    },
+                    "southwest": {
+                        "lat": 6.228429869708497,
+                        "lng": -75.5717835302915
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 6.229748600000001,
+                        "longitude": -75.5704248
+                    }
+                }
+            ],
+            "partial_match": true,
+            "place_id": "ChIJ8zhPTkooRI4Rre5t8kGGDbg",
+            "plus_code": {
+                "compound_code": "6CHH+WR Medellin, Antioquia, Colombia",
+                "global_code": "67R66CHH+WR"
+            },
+            "types": [
+                "establishment",
+                "gym",
+                "health",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "bodytech niquia": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Diagonal 55",
+                    "short_name": "Dg. 55",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hermosa Provincia",
+                    "short_name": "Hermosa Provincia",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Bello",
+                    "short_name": "Bello",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bello",
+                    "short_name": "Bello",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Antioquia",
+                    "short_name": "Antioquia",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colombia",
+                    "short_name": "CO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "051050",
+                    "short_name": "051050",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Dg. 55 ## 37-41, CC Estaci\u00f3n Niqu\u00eda Piso 14, Dg. 55, Hermosa Provincia, Bello, Antioquia, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 6.339496,
+                    "lng": -75.5448363
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 6.341019330291502,
+                        "lng": -75.5435340197085
+                    },
+                    "southwest": {
+                        "lat": 6.338321369708497,
+                        "lng": -75.54623198029151
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 6.339783799999999,
+                        "longitude": -75.5449134
+                    }
+                }
+            ],
+            "place_id": "ChIJx-QdLZovRI4Rsh3VDnJt3wg",
+            "plus_code": {
+                "compound_code": "8FQ4+Q3 Bello, Antioquia, Colombia",
+                "global_code": "67R68FQ4+Q3"
+            },
+            "types": [
+                "establishment",
+                "gym",
+                "health",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "bodytech robledo,belen": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Bel\u00e9n",
+                    "short_name": "Bel\u00e9n",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Bel\u00e9n",
+                    "short_name": "Bel\u00e9n",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Boyaca",
+                    "short_name": "Boyaca",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colombia",
+                    "short_name": "CO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "150640",
+                    "short_name": "150640",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Bel\u00e9n, Boyaca, Colombia",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 5.995162,
+                        "lng": -72.90414299999999
+                    },
+                    "southwest": {
+                        "lat": 5.983639,
+                        "lng": -72.9172349
+                    }
+                },
+                "location": {
+                    "lat": 5.9894,
+                    "lng": -72.91068899999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 5.995162,
+                        "lng": -72.90414299999999
+                    },
+                    "southwest": {
+                        "lat": 5.983639,
+                        "lng": -72.9172349
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJJzq-1W4lao4RCureqn08QkM",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "64-61",
+                    "short_name": "64-61",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Avenida 80",
+                    "short_name": "Av. 80",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Ferrini",
+                    "short_name": "Ferrini",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Robledo",
+                    "short_name": "Robledo",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Antioquia",
+                    "short_name": "Antioquia",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colombia",
+                    "short_name": "CO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "050034",
+                    "short_name": "050034",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Av. 80 #64-61, Ferrini, Medell\u00edn, Robledo, Medell\u00edn, Antioquia, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 6.273251,
+                    "lng": -75.5937118
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 6.274552830291502,
+                        "lng": -75.59223366970849
+                    },
+                    "southwest": {
+                        "lat": 6.271854869708497,
+                        "lng": -75.5949316302915
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 6.2731784,
+                        "longitude": -75.593513
+                    }
+                }
+            ],
+            "partial_match": true,
+            "place_id": "ChIJWcaL7z4pRI4RpDxzal0mXmg",
+            "plus_code": {
+                "compound_code": "7CF4+8G Medellin, Antioquia, Colombia",
+                "global_code": "67R67CF4+8G"
+            },
+            "types": [
+                "establishment",
+                "gym",
+                "health",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "bodytech camino real": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Local 401",
+                    "short_name": "Local 401",
+                    "types": [
+                        "subpremise"
+                    ]
+                },
+                {
+                    "long_name": "# 52 - 95",
+                    "short_name": "# 52 - 95",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Carrera 46",
+                    "short_name": "Cra. 46",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "La Candelaria",
+                    "short_name": "La Candelaria",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "La Candelaria",
+                    "short_name": "La Candelaria",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "La Candelaria",
+                    "short_name": "La Candelaria",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Medell\u00edn",
+                    "short_name": "Medell\u00edn",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Antioquia",
+                    "short_name": "Antioquia",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Colombia",
+                    "short_name": "CO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "050012",
+                    "short_name": "050012",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Av. Oriental, Cra. 46 # 52 - 95 Local 401, La Candelaria, Medell\u00edn, La Candelaria, Medell\u00edn, Antioquia, Colombia",
+            "geometry": {
+                "location": {
+                    "lat": 6.2500642,
+                    "lng": -75.564509
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 6.251374580291502,
+                        "lng": -75.56308936970848
+                    },
+                    "southwest": {
+                        "lat": 6.248676619708498,
+                        "lng": -75.5657873302915
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 6.2500173,
+                        "longitude": -75.5644232
+                    }
+                }
+            ],
+            "place_id": "ChIJ6RwiRI4pRI4RX29kqPdpiJE",
+            "plus_code": {
+                "compound_code": "7C2P+25 Medellin, Antioquia, Colombia",
+                "global_code": "67R67C2P+25"
+            },
+            "types": [
+                "establishment",
+                "gym",
+                "health",
+                "point_of_interest"
+            ]
+        }
+    ]
+}
